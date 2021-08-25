@@ -1,0 +1,10 @@
+body {
+	background-color: aqua;
+};
+
+.button {
+display: inline-flex;
+height: 40px;
+padding: 0;
+background-color: aqua;
+}
